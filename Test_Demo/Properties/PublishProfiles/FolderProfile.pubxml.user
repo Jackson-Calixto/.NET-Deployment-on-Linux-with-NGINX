@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Source\Repos\.NET-Deployment-on-Linux-with-NGINX\Test_Demo\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2023-07-25T11:54:29.5926374Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

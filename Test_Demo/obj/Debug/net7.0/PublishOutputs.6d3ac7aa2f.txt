@@ -1,0 +1,12 @@
+d:\Source\Repos\.NET-Deployment-on-Linux-with-NGINX\Test_Demo\bin\Debug\net7.0\publish\Test_Demo.exe
+d:\Source\Repos\.NET-Deployment-on-Linux-with-NGINX\Test_Demo\bin\Debug\net7.0\publish\appsettings.Development.json
+d:\Source\Repos\.NET-Deployment-on-Linux-with-NGINX\Test_Demo\bin\Debug\net7.0\publish\appsettings.json
+d:\Source\Repos\.NET-Deployment-on-Linux-with-NGINX\Test_Demo\bin\Debug\net7.0\publish\Test_Demo.dll
+d:\Source\Repos\.NET-Deployment-on-Linux-with-NGINX\Test_Demo\bin\Debug\net7.0\publish\Test_Demo.deps.json
+d:\Source\Repos\.NET-Deployment-on-Linux-with-NGINX\Test_Demo\bin\Debug\net7.0\publish\Test_Demo.runtimeconfig.json
+d:\Source\Repos\.NET-Deployment-on-Linux-with-NGINX\Test_Demo\bin\Debug\net7.0\publish\Test_Demo.pdb
+d:\Source\Repos\.NET-Deployment-on-Linux-with-NGINX\Test_Demo\bin\Debug\net7.0\publish\Microsoft.AspNetCore.OpenApi.dll
+d:\Source\Repos\.NET-Deployment-on-Linux-with-NGINX\Test_Demo\bin\Debug\net7.0\publish\Microsoft.OpenApi.dll
+d:\Source\Repos\.NET-Deployment-on-Linux-with-NGINX\Test_Demo\bin\Debug\net7.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+d:\Source\Repos\.NET-Deployment-on-Linux-with-NGINX\Test_Demo\bin\Debug\net7.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\Source\Repos\.NET-Deployment-on-Linux-with-NGINX\Test_Demo\bin\Debug\net7.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
