@@ -1,0 +1,19 @@
+[Unit]
+Description=LocalTunnel
+service
+Documentation=https://funoracleapps.com/
+
+[Service]
+Type=simple
+User=root
+Group=root
+TimeoutStartSec=0
+Restart=on-failure
+RestartSec=30s
+#ExecStartPre=
+ExecStart=lt --port 5000 --subdomain realize &
+SyslogIdentifier=Diskutilization
+#ExecStop=
+
+[Install]
+WantedBy=multi-user.target

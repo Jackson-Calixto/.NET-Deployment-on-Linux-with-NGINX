@@ -45,7 +45,38 @@ systemctl start apponlinux.service
 systemctl status apponlinux.service
 journalctl -u apponlinux.service
 
+# configure linux service to start automatically
+https://www.digitalocean.com/community/tutorials/how-to-configure-a-linux-service-to-start-automatically-after-a-crash-or-reboot-part-2-reference
+
 # Setup NGINX
 nano /etc/nginx/sites-enabled/apponlinux
 systemctl restart nginx.service
 systemctl status nginx.service
+
+# Using Free Let’s Encrypt SSL/TLS Certificates with NGINX
+https://www.nginx.com/blog/using-free-ssltls-certificates-from-lets-encrypt-with-nginx/
+
+# Tunneling
+# with localtunnel
+lt --port 5000 --subdomain api-realize
+https://api-realize.loca.lt/swagger/index.html
+# with ngrok
+https://dashboard.ngrok.com/tunnels/agents
+
+# with cloudflare
+https://one.dash.cloudflare.com/36d83243c1aaa8ac8d0c6e53886f3552/access/tunnels
+
+# Run a Shell Script as Systemd Service in Linux to open localtunnel
+https://www.funoracleapps.com/2022/02/run-shell-script-as-systemd-service-in.html
+
+nano /usr/bin/lt.apponlinux.sh
+tmux new -d 'lt --port 5000 --subdomain api-realize'
+chmod +x /usr/bin/lt.apponlinux.sh
+
+nano /etc/systemd/system/lt.apponlinux.service
+
+# Map SSH Driver
+http://makerlab.cs.hku.hk/index.php/en/mapping-network-drive-over-ssh-in-windows
+
+# Publishing to SSH folder directly
+dotnet publish -c Release -o R:\apponlinux\ .\Test_Demo.csproj

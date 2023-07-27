@@ -4,8 +4,8 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 -->
 <Project>
   <PropertyGroup>
-    <_PublishTargetUrl>D:\Source\Repos\.NET-Deployment-on-Linux-with-NGINX\Test_Demo\bin\Release\net7.0\publish\</_PublishTargetUrl>
-    <History>True|2023-07-25T11:54:29.5926374Z;</History>
+    <_PublishTargetUrl>R:\apponlinux</_PublishTargetUrl>
+    <History>True|2023-07-27T15:48:53.5292266Z;False|2023-07-27T12:48:13.4268256-03:00;True|2023-07-27T09:52:14.0464038-03:00;False|2023-07-27T09:44:03.0543131-03:00;True|2023-07-27T06:44:07.2997108-03:00;True|2023-07-27T06:42:31.4900616-03:00;True|2023-07-25T08:54:29.5926374-03:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>
